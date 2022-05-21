@@ -1,5 +1,5 @@
 Tibia Time Machine 6.5
-by tulio150 - otland.net
+by tulio150 - Tibia-Servers
 ------------------------
 
 Tibia Time Machine is a program for recording and watching Tibia videos.
